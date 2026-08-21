@@ -1,0 +1,6 @@
+{
+  "name": "Sendline - All-in-One Global Email & Loyalty Platform",
+  "description": "Unified modern email platform combining editorial visual campaigns, visual automated workflows, lead capture forms, digital checkouts, sub-30ms transactional API delivery, first-time sender screening mailbox, and customer loyalty rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
